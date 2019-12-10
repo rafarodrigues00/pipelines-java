@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/alunogreen19950206/Cloud%20Ninja/_apis/build/status/rafarodrigues00.pipelines-java?branchName=master)](https://dev.azure.com/alunogreen19950206/Cloud%20Ninja/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
